@@ -69,4 +69,4 @@ function busqueda(Product) {
   })();
 }
 
-busqueda("wafflera 5 en 1");
+busqueda("guantes de boxeo everlast");
