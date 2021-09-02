@@ -69,4 +69,4 @@ function busqueda(Product) {
   })();
 }
 
-busqueda("guantes de boxeo everlast");
+busqueda("guantes de boxeo");
